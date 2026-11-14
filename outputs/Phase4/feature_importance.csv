@@ -1,0 +1,21 @@
+Feature,Importance
+cat__complaint_type_New Tree Request,0.3449573514774291
+num__longitude,0.10834049395860439
+num__latitude,0.09664824539519523
+cat__agency_DPR,0.06958076688625225
+num__month,0.04749907570539372
+cat__complaint_type_Food Establishment,0.04089915362234804
+cat__complaint_type_Building/Use,0.03980750419811253
+cat__complaint_type_Mobile Food Vendor,0.03676443506954175
+cat__agency_TLC,0.021993452805161073
+num__hour,0.020289237969887908
+num__day_of_week,0.018916452700293167
+cat__agency_NYPD,0.015102264084314775
+cat__complaint_type_Lot Condition,0.014328860629388103
+cat__agency_DOB,0.01230911164352108
+cat__complaint_type_Overgrown Tree/Branches,0.010921600935226379
+cat__complaint_type_Day Care,0.010366813946360996
+cat__location_type_Mobile Food Vendor,0.009616302554846001
+cat__borough_QUEENS,0.006959651864771621
+cat__complaint_type_Maintenance or Facility,0.006362226927345257
+cat__complaint_type_Smoking or Vaping,0.00633602925991747
