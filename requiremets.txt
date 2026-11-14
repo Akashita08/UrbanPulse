@@ -3,3 +3,5 @@ numpy
 matplotlib
 seaborn
 requests
+plotly
+folium
