@@ -1,7 +1,8 @@
+streamlit
+streamlit-folium
 pandas
 numpy
-matplotlib
-seaborn
-requests
 plotly
 folium
+joblib
+scikit-learn==1.9.1
